@@ -1,10 +1,3 @@
-/*
- * Problem Set 1
- * 
- * A simple interactive program that performs operations 
- * on a set of three integers.
- */
-
 import java.util.*;
 
 
